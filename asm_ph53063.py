@@ -59,7 +59,7 @@ def thoat():
 
 def show_menu():
     while True:
-        print("\n --------- QUẢN LÝ MÔN HỌC ----------")
+        print("\n --------- QUẢN LÝ GIẢNG VIÊN ----------")
         print("1. Hiển thị danh sách")
         print("2. Tìm kiếm hoặc lọc")
         print("3. Thêm mới ")
